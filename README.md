@@ -26,7 +26,7 @@ Breast-Cancer-Classification is a web application designed to classify breast ca
 1. Get the source code on your pc via git.
 
 ```shell
-  git clone https://github.com/ArunAdhithiya/Age-and-Gender-Prediction.git
+  git clone https://github.com/ArunAdhithiya/Breast-Cancer-Detection.git
 ```
 
 2. Create a virtual environment to install the required dependencies of the application.
